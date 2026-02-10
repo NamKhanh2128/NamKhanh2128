@@ -42,6 +42,30 @@
 
 ---
 
+<h3 align="center">🗼 My Featured Projects </h3>
+
+<div align="center">
+
+  <a href="https://github.com/NamKhanh2128/TDP-7">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NamKhanh2128&repo=TDP-7&theme=tokyonight&border_radius=10" alt="TDP-7" />
+  </a>
+
+  <a href="https://github.com/NamKhanh2128/ChatbotAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NamKhanh2128&repo=ChatbotAI&theme=tokyonight&border_radius=10" alt="ChatbotAI" />
+  </a>
+
+  <br/> <a href="https://github.com/NamKhanh2128/carrentalweb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NamKhanh2128&repo=carrentalweb&theme=tokyonight&border_radius=10" alt="carrentalweb" />
+  </a>
+
+  <a href="https://github.com/NamKhanh2128/gender_age_classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NamKhanh2128&repo=gender_age_classification&theme=tokyonight&border_radius=10" alt="gender_age_classification" />
+  </a>
+
+</div>
+
+---
+
 <h3>📊 GitHub Stats</h3>
 
 <div align="center">
