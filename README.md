@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Nguyen Duc Nam Khanh
 
-### 🎓 HUST K68 | IT Việt - Nhật (HEDSPI)
+### 🎓 HUST K68 | ITベトナム - 日本（HEDSPI）
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+Advanced+SQL+%26+Database+Design;Exploring+ML+%26+Computer+Vision;Aiming+for+JLPT+N2;Welcome+to+my+profile!&font=Fira+Code&center=true&width=750&height=50&color=0e75b6&vCenter=true&size=24&pause=1000" alt="Typing SVG" />
