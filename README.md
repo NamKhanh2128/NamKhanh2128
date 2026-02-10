@@ -1,30 +1,65 @@
+<div align="center">
+
 # Hi 👋, I'm Nguyen Duc Nam Khanh
 
-### HUST K68 | IT Việt - Nhật (HEDSPI)
+### 🎓 HUST K68 | IT Việt - Nhật (HEDSPI)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NamKhanh2128&label=Profile views&color=0e75b6&style=flat" alt="NamKhanh2128" /> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+Advanced+SQL+%26+Database+Design;Exploring+ML+%26+Computer+Vision;Aiming+for+JLPT+N2;Welcome+to+my+profile!&font=Fira+Code&center=true&width=750&height=50&color=0e75b6&vCenter=true&size=24&pause=1000" alt="Typing SVG" />
+</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NamKhanh2128" alt="NamKhanh2128" /></a> </p>
+<br/>
 
-- 🌱 I'm currently learning **Advanced SQL, Database Design, and exploring Machine Learning (ML) & Computer Vision. Aiming for JLPT N2.**
-
-- 📫 How to reach me **khanh.ndn235755@sis.hust.edu.vn / ndnamkhanh21@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://namkhanh-porfolio.my.canva.site/](https://namkhanh-porfolio.my.canva.site/)**
-
-- 📄 Know about my experiences **[https://l1nk.dev/NAMKHANH-CV](https://l1nk.dev/NAMKHANH-CV)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/NamKhanh2128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="NamKhanh2128" height="30" width="40" /></a>
+<p>
+  🌱 I'm currently learning <b>Advanced SQL, Database Design, ML & Computer Vision.</b><br>
+  🎯 Aiming for <b>JLPT N2</b>.<br>
+  📫 <b>Email:</b> <a href="mailto:khanh.ndn235755@sis.hust.edu.vn">khanh.ndn235755@sis.hust.edu.vn</a> / <a href="mailto:ndnamkhanh21@gmail.com">ndnamkhanh21@gmail.com</a><br>
+  👨‍💻 <b>Portfolio:</b> <a href="https://namkhanh-porfolio.my.canva.site/">namkhanh-porfolio.my.canva.site</a><br>
+  📄 <b>CV/Experience:</b> <a href="https://l1nk.dev/NAMKHANH-CV">Check my CV</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+<h3>Connect with me:</h3>
+<p align="center">
+  <a href="https://github.com/NamKhanh2128" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NamKhanh2128&show_icons=true&locale=en&layout=compact" alt="NamKhanh2128" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NamKhanh2128&show_icons=true&locale=en" alt="NamKhanh2128" /></p>
+<h3>🛠 Languages and Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,postman" height="45" alt="Cloud & Tools" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css" height="45" alt="Languages" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" height="45" alt="Databases" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=matlab,opencv,pytorch,tensorflow,python" height="45" alt="AI & ML" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,unity,figma,ps" height="45" alt="Frameworks & Design" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NamKhanh2128&" alt="NamKhanh2128" /></p>
+---
 
+<h3>📊 GitHub Stats</h3>
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=NamKhanh2128&show_icons=true&locale=en&theme=default&hide_border=true" alt="NamKhanh2128 Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamKhanh2128&theme=default&hide_border=true" alt="NamKhanh2128 Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NamKhanh2128&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" alt="NamKhanh2128 Top Langs" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+</div>
