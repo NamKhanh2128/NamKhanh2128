@@ -42,27 +42,76 @@
 
 ---
 
-<h3 align="center">🗼 My Featured Projects </h3>
-
+<br />
 <div align="center">
-
-  <a href="https://github.com/NamKhanh2128/TDP-7">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NamKhanh2128&repo=TDP-7&theme=tokyonight&border_radius=10" alt="TDP-7" />
-  </a>
-
-  <a href="https://github.com/NamKhanh2128/ChatbotAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NamKhanh2128&repo=ChatbotAI&theme=tokyonight&border_radius=10" alt="ChatbotAI" />
-  </a>
-
-  <br/> <a href="https://github.com/NamKhanh2128/carrentalweb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NamKhanh2128&repo=carrentalweb&theme=tokyonight&border_radius=10" alt="carrentalweb" />
-  </a>
-
-  <a href="https://github.com/NamKhanh2128/gender_age_classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NamKhanh2128&repo=gender_age_classification&theme=tokyonight&border_radius=10" alt="gender_age_classification" />
-  </a>
-
+  <h2>⛩️ Featured Projects | 主なプロジェクト ⛩️</h2>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500">
+  <br/><br/>
 </div>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🏢 TDP-7 Manager</h3>
+      <p>
+        <b>Residential & Community Center Management System</b><br>
+        <i>第7地区居住者・公民館管理システム</i>
+      </p>
+      <p>
+        Comprehensive system for managing residents of Group 7 and community center activities.<br>
+        <i>第7地区（TDP-7）の居住者情報および公民館の活動を統合管理するシステム。</i>
+      </p>
+      <a href="https://github.com/NamKhanh2128/TDP-7">
+        <img src="https://img.shields.io/badge/View_Repo-PROJECT-DC143C?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🤖 AI Chatbot Assistant</h3>
+      <p>
+        <b>AI Chatbot with Gemini Integration</b><br>
+        <i>Gemini AI搭載チャットボット</i>
+      </p>
+      <p>
+        Automated conversational responses powered by Google Gemini AI.<br>
+        <i>Google Gemini AIを活用した自動応答チャットシステム。</i>
+      </p>
+      <a href="https://github.com/NamKhanh2128/ChatbotAI">
+        <img src="https://img.shields.io/badge/View_Repo-PROJECT-1E3A8A?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🚗 Car Rental Web</h3>
+      <p>
+        <b>Online Car Rental Platform</b><br>
+        <i>レンタカー予約プラットフォーム</i>
+      </p>
+      <p>
+        Full-stack web application for online car booking and scheduling.<br>
+        <i>予約・スケジュール機能を備えたレンタカー管理システム。</i>
+      </p>
+      <a href="https://github.com/NamKhanh2128/carrentalweb">
+        <img src="https://img.shields.io/badge/View_Repo-PROJECT-DC143C?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>👁️ Gender & Age AI</h3>
+      <p>
+        <b>Gender & Age Classification AI</b><br>
+        <i>画像認識AI（性別・年齢推定）</i>
+      </p>
+      <p>
+        Computer Vision model for predicting age and gender from images.<br>
+        <i>画像から性別と年齢を推定するコンピュータビジョンモデル。</i>
+      </p>
+      <a href="https://github.com/NamKhanh2128/gender_age_classification">
+        <img src="https://img.shields.io/badge/View_Repo-PROJECT-1E3A8A?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
