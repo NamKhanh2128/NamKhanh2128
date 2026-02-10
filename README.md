@@ -1,16 +1,116 @@
-## Hi there 👋
-
-<!--
-**NamKhanh2128/NamKhanh2128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-02-10T18:58:05.320Z",
+  "profile": {
+    "title": "Nguyen Duc Nam Khanh",
+    "subtitle": "HUST K68 | IT Việt - Nhật (HEDSPI)",
+    "currentWork": "",
+    "currentLearn": "Advanced SQL, Database Design, and exploring Machine Learning (ML) & Computer Vision. Aiming for JLPT N2.",
+    "collaborateOn": "",
+    "helpWith": "",
+    "ama": "",
+    "contact": "khanh.ndn235755@sis.hust.edu.vn / ndnamkhanh21@gmail.com",
+    "funFact": "",
+    "visitorsBadge": true,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": true,
+    "githubStats": true,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": true,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": true,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "https://namkhanh-porfolio.my.canva.site/",
+    "blog": "",
+    "resume": "https://l1nk.dev/NAMKHANH-CV"
+  },
+  "social": {
+    "github": "NamKhanh2128",
+    "dev": "",
+    "linkedin": "",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "amplify",
+    "aws",
+    "c",
+    "cplusplus",
+    "css3",
+    "docker",
+    "figma",
+    "html5",
+    "java",
+    "javascript",
+    "linux",
+    "mariadb",
+    "matlab",
+    "mongodb",
+    "mssql",
+    "mysql",
+    "nodejs",
+    "numpy",
+    "opencv",
+    "photoshop",
+    "postgresql",
+    "postman",
+    "pytorch",
+    "react",
+    "reactnative",
+    "sqlite",
+    "tailwind",
+    "tensorflow",
+    "typescript",
+    "unity"
+  ]
+}
